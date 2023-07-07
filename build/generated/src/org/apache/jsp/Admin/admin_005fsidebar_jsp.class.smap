@@ -1,0 +1,18 @@
+SMAP
+admin_005fsidebar_jsp.java
+JSP
+*S JSP
+*F
++ 0 admin_sidebar.jsp
+Admin/admin_sidebar.jsp
+*L
+5,37:44
+42:81,3
+43,2:84
+45:86,3
+46,17:89
+63:106,3
+64,10:109
+74:119,3
+75,40:122
+*E
